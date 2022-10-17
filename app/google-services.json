@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95450900111",
+    "project_id": "fire-alarm-c4c97",
+    "storage_bucket": "fire-alarm-c4c97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95450900111:android:c58f9d4fc4802ddbbdb2fa",
+        "android_client_info": {
+          "package_name": "com.prasoon.firealarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95450900111-helogspfvhremaahuung4cvmn77hui22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5PcCQmqx0mmbR4qjKH2MRKgL3gtRSlvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95450900111-helogspfvhremaahuung4cvmn77hui22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
